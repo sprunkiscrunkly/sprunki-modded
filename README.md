@@ -1,4 +1,4 @@
-# Sprunki Modded - Play Incredibox Sprunki Mod Game Online Free
+# Sprunki Modded
 
 ![Sprunki Modded](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-modded/refs/heads/main/sprunki-modded.png "Sprunki Modded")
 
